@@ -9,6 +9,8 @@ I am a graduate student at Columbia University studying <b> Computer Engineering
 
 <b> Languages </b> 💻 <br> C, C++, Python, SystemVerilog, TCL, MATLAB </br>
 
+<b> Interests </b> 🧠 <br> ASIC Design, FPGA's, VLSI, SoCs </br>
+
 <b> LinkedIn 🔗 </b> <br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/chaturvedi-chirag">
