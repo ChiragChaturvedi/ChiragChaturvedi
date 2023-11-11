@@ -6,3 +6,10 @@ I am a graduate student at Columbia University studying <b> Computer Engineering
 2023 <b> Graduate Research Assistant </b> under Thomas Koch, investigating new layer-3 forwarding technologies using FPGAs. <br>
 2021-2022 <b> Embedded Systems Intern </b> at <a href = "https://aarohlabs.com">Aaroh Labs </a>. <br>
 2019 <b> Software Engineering Intern </b> at <a href = "https://www.siliconindia.com"> Siliconinda </a>. <br>
+
+<b> Languages </b> 💻 <br> C, C++, Python, SystemVerilog, TCL, MATLAB </br>
+
+<b> GitHub Streaks 🔥 </b>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chiragchaturvedi)](https://git.io/streak-stats)
+
