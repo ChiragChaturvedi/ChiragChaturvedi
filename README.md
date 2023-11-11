@@ -9,6 +9,14 @@ I am a graduate student at Columbia University studying <b> Computer Engineering
 
 <b> Languages </b> 💻 <br> C, C++, Python, SystemVerilog, TCL, MATLAB </br>
 
+<b> LinkedIn 🔗 </b> <br>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/chaturvedi-chirag">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div> </br>
+
+
 <b> GitHub Streaks 🔥 </b>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chiragchaturvedi)](https://git.io/streak-stats)
