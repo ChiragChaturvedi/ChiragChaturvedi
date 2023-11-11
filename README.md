@@ -9,7 +9,7 @@ I am a graduate student at Columbia University studying <b> Computer Engineering
 
 <b> Languages </b> 💻 <br> C, C++, Python, SystemVerilog, TCL, MATLAB </br>
 
-<b> Interests </b> 🧠 <br> ASIC Design, FPGA's, VLSI, SoCs </br>
+<b> Interests </b> 🧠 <br> ASIC Design, FPGA's, VLSI, SoCs, Computer Architecture </br>
 
 <b> Email me 📫 </b> <br> cc4880 {at} {columbia} {dot} edu </br>
 
