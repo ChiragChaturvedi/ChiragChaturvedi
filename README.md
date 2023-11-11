@@ -11,6 +11,8 @@ I am a graduate student at Columbia University studying <b> Computer Engineering
 
 <b> Interests </b> 🧠 <br> ASIC Design, FPGA's, VLSI, SoCs, Computer Architecture </br>
 
+<b> CAD Tools </b> 🛠 <br> Cadence Virtuoso, Cadence Genus, Xilinx Vivado, Altium Designer, Quartus, Catapult </br>
+
 <b> Email me 📫 </b> <br> cc4880 {at} {columbia} {dot} edu </br>
 
 <b> LinkedIn 🔗 </b> <br>
